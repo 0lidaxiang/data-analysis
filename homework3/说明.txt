@@ -1,0 +1,14 @@
+
+作業三投影片有稍微修改，已上傳第二版
+
+進入Kaggle的網址：https://www.kaggle.com/t/d67c8af70e4e47d9b5ffa1b91327fdbd
+
+上傳格式
+
+第一欄取名：index，值為0~3054
+
+第二欄取名：label，值為0 or 1
+
+作業二有問題請寄信至 peternancy122@gmail.com
+
+作業三有問題請寄信至 ms0421555@gmail.com
