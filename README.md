@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This course content includes that Classification(Supervised Method:),Clustering(Unsupervised Method),Association Analysis.
+This course content includes that Classification(Supervised Method:),Clustering(Unsupervised Method),Association Analysis. The result should be uploaded to Kaggle's competition, but since the game is not open to the public, I will not post the URL.
 
-这是 2018 年春季学期台湾科技大学资料科学介绍课程的三个作业内容，包含分类(有监督式)、聚类(无监督式)、和关联分析。原来结果都是要上传到 Kaggle 对应的比赛的，但鉴于比赛不对外开放，我就不贴网址了。
+这是 2018 年春季学期台湾科技大学资料科学介绍课程的三个作业内容，包含分类(有监督式)、聚类(无监督式)、和关联分析。原来结果都是要上传到 Kaggle 对应的比赛，但鉴于比赛不对外开放，我就不贴网址了。
 
 ## Homework1
 
